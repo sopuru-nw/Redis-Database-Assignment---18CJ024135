@@ -1,0 +1,395 @@
+Country,Year,Unit,Value
+Algeria,2003,Percent,69.6
+Algeria,2002,Percent,68.2
+Algeria,2001,Percent,73.9
+Algeria,2000,Percent,75.7
+Algeria,1999,Percent,77.6
+Algeria,1998,Percent,78
+Angola,2006,Percent,61.5
+Angola,2005,Percent,62.5
+Angola,2004,Percent,61.2
+Angola,2003,Percent,62.1
+Angola,2002,Percent,61.6
+Angola,2001,Percent,62.4
+Angola,2000,Percent,64.7
+Angola,1999,Percent,64.7
+Angola,1998,Percent,64
+Benin,2006,Percent,72.6
+Benin,2005,Percent,74.3
+Benin,2004,Percent,75.1
+Benin,2003,Percent,64.1
+Benin,2002,Percent,63.6
+Benin,2001,Percent,65.5
+Benin,2000,Percent,66
+Benin,1999,Percent,66.2
+Benin,1998,Percent,66.5
+Botswana,2002,Percent,28.7
+Botswana,2001,Percent,34.9
+Botswana,2000,Percent,29.7
+Botswana,1999,Percent,32.1
+Botswana,1998,Percent,32.7
+Burkina Faso,2006,Percent,42.7
+Burkina Faso,2005,Percent,43.5
+Burkina Faso,2004,Percent,43.3
+Burkina Faso,2003,Percent,40.5
+Burkina Faso,2002,Percent,40.9
+Burkina Faso,2001,Percent,42.9
+Burkina Faso,2000,Percent,42.7
+Burkina Faso,1999,Percent,41.8
+Burkina Faso,1998,Percent,41.7
+Burundi,1999,Percent,80.2
+Burundi,1998,Percent,81.3
+Burundi,1999,Percent,80.9
+Burundi,1998,Percent,83.2
+Cape Verde,2002,Percent,73.4
+Cape Verde,2001,Percent,69.7
+Cape Verde,2000,Percent,76.8
+Cape Verde,1999,Percent,73.7
+Cameroon,2006,Percent,68.8
+Cameroon,2005,Percent,68.7
+Cameroon,2004,Percent,68.9
+Cameroon,2003,Percent,68.6
+Cameroon,2002,Percent,68.6
+Cameroon,2001,Percent,69.5
+Cameroon,2000,Percent,70.5
+Cameroon,1999,Percent,71
+Cameroon,1998,Percent,71
+Central African Republic,2000,Percent,83.5
+Central African Republic,1998,Percent,81.9
+Chad,2003,Percent,82.7
+Chad,2002,Percent,83.6
+Chad,2001,Percent,83.4
+Chad,2000,Percent,83.1
+Chad,1999,Percent,83.4
+Chad,1998,Percent,82.3
+Comoros,2006,Percent,85.6
+Comoros,2005,Percent,86.1
+Comoros,2004,Percent,85.6
+Comoros,2003,Percent,85.3
+Comoros,2002,Percent,84.5
+Comoros,2001,Percent,84
+Comoros,2000,Percent,95.7
+Comoros,1999,Percent,95.8
+Comoros,1998,Percent,95.8
+Democratic Republic of the Congo,2006,Percent,80.7
+Democratic Republic of the Congo,2005,Percent,77.9
+Democratic Republic of the Congo,2004,Percent,76.6
+Democratic Republic of the Congo,2003,Percent,74.9
+Democratic Republic of the Congo,2002,Percent,76.7
+Democratic Republic of the Congo,2001,Percent,77.7
+Democratic Republic of the Congo,2000,Percent,68.6
+Democratic Republic of the Congo,1999,Percent,71.1
+Democratic Republic of the Congo,1998,Percent,68.5
+Republic of Congo,2003,Percent,78.1
+Republic of Congo,2002,Percent,77.5
+Republic of Congo,2001,Percent,79.5
+Republic of Congo,2000,Percent,80.3
+Cote d'Ivoire,2002,Percent,81.5
+Cote d'Ivoire,2001,Percent,81.4
+Cote d'Ivoire,2000,Percent,84.3
+Cote d'Ivoire,1999,Percent,81.9
+Cote d'Ivoire,1998,Percent,85.3
+Djibouti,2003,Percent,74.1
+Djibouti,2002,Percent,74.7
+Djibouti,2001,Percent,74.6
+Djibouti,2000,Percent,74.4
+Djibouti,1999,Percent,95
+Djibouti,1998,Percent,76.3
+Egypt,2006,Percent,68.3
+Egypt,2005,Percent,68.2
+Egypt,2004,Percent,69.1
+Egypt,2003,Percent,65.7
+Egypt,2002,Percent,70
+Egypt,2001,Percent,70.7
+Egypt,2000,Percent,70.1
+Egypt,1999,Percent,69.1
+Egypt,1998,Percent,67.7
+Equatorial Guinea,2006,Percent,42.3
+Equatorial Guinea,2005,Percent,42.1
+Equatorial Guinea,2004,Percent,41.2
+Equatorial Guinea,2003,Percent,40.2
+Equatorial Guinea,2002,Percent,27.9
+Equatorial Guinea,2001,Percent,29.3
+Equatorial Guinea,2000,Percent,30.4
+Equatorial Guinea,1999,Percent,32.4
+Equatorial Guinea,1998,Percent,33
+Eritrea,2006,Percent,73.2
+Eritrea,2005,Percent,72.2
+Eritrea,2004,Percent,67.4
+Eritrea,2003,Percent,63.3
+Eritrea,2002,Percent,64.3
+Eritrea,2001,Percent,64.9
+Eritrea,2000,Percent,65.9
+Eritrea,1999,Percent,65.2
+Eritrea,1998,Percent,64.2
+Ethiopia,2006,Percent,84.9
+Ethiopia,2005,Percent,85.8
+Ethiopia,2004,Percent,85.4
+Ethiopia,2003,Percent,85.7
+Ethiopia,2002,Percent,85.6
+Ethiopia,2001,Percent,84.9
+Ethiopia,2000,Percent,83.7
+Ethiopia,1999,Percent,83.9
+Ethiopia,1998,Percent,81.9
+Gabon,1998,Percent,85.5
+Gabon,1998,Percent,83.7
+Gambia,2003,Percent,81.8
+Gambia,2002,Percent,73.7
+Gambia,2000,Percent,83.5
+Gambia,1998,Percent,77.6
+Gambia,2003,Percent,68.5
+Gambia,2002,Percent,76.6
+Gambia,2001,Percent,77.1
+Gambia,1999,Percent,80.2
+Gambia,1998,Percent,81.5
+Gambia,2006,Percent,96.3
+Gambia,2005,Percent,96.1
+Gambia,2004,Percent,95.7
+Gambia,2003,Percent,95.6
+Gambia,2002,Percent,96.6
+Gambia,2001,Percent,96.7
+Gambia,2000,Percent,96.5
+Gambia,1999,Percent,96.1
+Gambia,1998,Percent,96.1
+Ghana,2006,Percent,87
+Ghana,2005,Percent,88.4
+Ghana,2004,Percent,88
+Ghana,2003,Percent,87.8
+Ghana,2002,Percent,84.3
+Ghana,2001,Percent,84.7
+Ghana,2000,Percent,85.7
+Ghana,1999,Percent,86.6
+Ghana,1998,Percent,86.1
+Guinea,2006,Percent,76.7
+Guinea,2005,Percent,78.9
+Guinea,2004,Percent,79.6
+Guinea,2003,Percent,78.6
+Guinea,2002,Percent,70.8
+Guinea,2001,Percent,73.6
+Guinea,2000,Percent,74.8
+Guinea,1999,Percent,67.7
+Guinea,1998,Percent,72.1
+Guinea Bissau,2006,Percent,76.7
+Guinea Bissau,2005,Percent,77.2
+Guinea Bissau,2004,Percent,75.9
+Guinea Bissau,2003,Percent,75.6
+Guinea Bissau,2002,Percent,74.5
+Guinea Bissau,2001,Percent,73.9
+Guinea Bissau,2000,Percent,74.3
+Guinea Bissau,1999,Percent,74
+Guinea Bissau,1998,Percent,74.3
+Kenya,2002,Percent,43.6
+Kenya,2001,Percent,43
+Kenya,2000,Percent,45.9
+Kenya,1999,Percent,43.6
+Kenya,1998,Percent,47.4
+Lesotho,2006,Percent,82.2
+Lesotho,2005,Percent,80.4
+Lesotho,2004,Percent,80.3
+Lesotho,2003,Percent,79.8
+Lesotho,2002,Percent,80.3
+Lesotho,2001,Percent,86.3
+Lesotho,2000,Percent,88.4
+Lesotho,1999,Percent,86.6
+Lesotho,1998,Percent,87.1
+Liberia,2006,Percent,87.2
+Liberia,2005,Percent,86.7
+Liberia,2004,Percent,87.5
+Liberia,2003,Percent,87.7
+Liberia,2002,Percent,87.4
+Liberia,2001,Percent,89
+Liberia,2000,Percent,89.1
+Liberia,1999,Percent,88.6
+Liberia,1998,Percent,89
+Libya,2006,Percent,85.2
+Libya,2005,Percent,84.4
+Libya,2004,Percent,85.4
+Libya,2003,Percent,84.6
+Libya,2002,Percent,83.5
+Libya,2001,Percent,85.3
+Libya,2000,Percent,84
+Libya,1999,Percent,84.1
+Libya,1998,Percent,84
+Madagascar,2004,Percent,81.9
+Madagascar,2003,Percent,82.7
+Madagascar,2002,Percent,83.1
+Madagascar,2001,Percent,83
+Madagascar,2000,Percent,83.8
+Madagascar,1999,Percent,83.6
+Madagascar,1998,Percent,82
+Malawi,2006,Percent,69.6
+Malawi,2005,Percent,68.4
+Malawi,2004,Percent,67.8
+Malawi,2003,Percent,67.2
+Malawi,2002,Percent,67.2
+Malawi,2001,Percent,67.9
+Malawi,2000,Percent,68.6
+Malawi,1999,Percent,62.1
+Malawi,1998,Percent,60.3
+Malawi,1998,Percent,73.7
+Malawi,1998,Percent,87.8
+Mali,2006,Percent,81.9
+Mali,2005,Percent,82.7
+Mali,2004,Percent,81.9
+Mali,2003,Percent,82
+Mali,2002,Percent,81.4
+Mali,2001,Percent,82.4
+Mali,2000,Percent,82.5
+Mali,1999,Percent,82.1
+Mali,1998,Percent,82.1
+Mauritania,2003,Percent,78.3
+Mauritania,2002,Percent,86.8
+Mauritania,2001,Percent,87.7
+Mauritania,2000,Percent,85
+Mauritania,1999,Percent,91
+Mauritania,1998,Percent,87.9
+Mauritius,2006,Percent,22.8
+Mauritius,2005,Percent,21.1
+Mauritius,2004,Percent,21.5
+Mauritius,2003,Percent,21.7
+Mauritius,2002,Percent,22.9
+Mauritius,2001,Percent,21.7
+Mauritius,2000,Percent,22.4
+Mauritius,1999,Percent,23.9
+Mauritius,1998,Percent,25
+Morocco,2003,Percent,75.6
+Morocco,2002,Percent,76.8
+Morocco,2001,Percent,79.6
+Morocco,2000,Percent,83.5
+Morocco,1999,Percent,83.3
+Morocco,1998,Percent,82.2
+Mozambique,2003,Percent,71.4
+Mozambique,2002,Percent,77.3
+Mozambique,2000,Percent,77.9
+Mozambique,1999,Percent,79.3
+Namibia,2006,Percent,89.7
+Namibia,2005,Percent,88.8
+Namibia,2004,Percent,88.4
+Namibia,2003,Percent,88.3
+Namibia,2002,Percent,87.8
+Namibia,2001,Percent,87.9
+Namibia,2000,Percent,85.5
+Namibia,1999,Percent,83.8
+Namibia,1998,Percent,87.3
+Niger,2006,Percent,80.6
+Niger,2005,Percent,80.8
+Niger,2004,Percent,80.8
+Niger,2003,Percent,79.7
+Niger,2002,Percent,80.3
+Niger,2001,Percent,80.5
+Niger,2000,Percent,81.5
+Niger,1999,Percent,82.6
+Niger,1998,Percent,83.6
+Nigeria,2006,Percent,90.3
+Nigeria,2005,Percent,90.3
+Nigeria,2004,Percent,89.3
+Nigeria,2003,Percent,89.9
+Nigeria,2002,Percent,95.4
+Nigeria,2001,Percent,96.5
+Nigeria,2000,Percent,97.5
+Nigeria,1999,Percent,97.2
+Nigeria,1998,Percent,97.3
+Rwanda,2006,Percent,83.3
+Rwanda,2005,Percent,83.4
+Rwanda,2004,Percent,86.9
+Rwanda,2003,Percent,87
+Rwanda,2002,Percent,86.9
+Rwanda,2001,Percent,87
+Rwanda,2000,Percent,86.9
+Rwanda,1999,Percent,86.7
+Rwanda,1998,Percent,87.1
+Sao Tome and Principe,2001,Percent,62.1
+Sao Tome and Principe,2001,Percent,67.9
+Seychelles,1998,Percent,63
+Seychelles,1998,Percent,83.4
+Senegal,2006,Percent,72
+Senegal,2005,Percent,71.9
+Senegal,2004,Percent,75
+Senegal,2003,Percent,75.8
+Senegal,2002,Percent,76.5
+Senegal,2001,Percent,77.1
+Senegal,2000,Percent,77.5
+Senegal,1999,Percent,77.8
+Senegal,1998,Percent,81.1
+Sierra Leone,2006,Percent,85.8
+Sierra Leone,2005,Percent,86.9
+Sierra Leone,2004,Percent,86
+Sierra Leone,2003,Percent,86.2
+Sierra Leone,2002,Percent,86.7
+Sierra Leone,2001,Percent,84.9
+Sierra Leone,2000,Percent,86.7
+Sierra Leone,1999,Percent,87.9
+Sierra Leone,1998,Percent,88.8
+Somalia,2002,Percent,36.7
+Somalia,2001,Percent,37.3
+Somalia,2000,Percent,37.7
+Somalia,1999,Percent,32.9
+Somalia,1998,Percent,32.3
+South Africa,2006,Percent,91.6
+South Africa,2005,Percent,92.2
+South Africa,2004,Percent,91.9
+South Africa,2003,Percent,92.8
+South Africa,2002,Percent,92.6
+South Africa,2001,Percent,92.5
+South Africa,2000,Percent,89.3
+South Africa,1999,Percent,90.2
+South Africa,1998,Percent,92.2
+South Sudan,2006,Percent,65
+South Sudan,2005,Percent,65.5
+South Sudan,2004,Percent,65.7
+South Sudan,2003,Percent,66.5
+South Sudan,2002,Percent,68.3
+South Sudan,2001,Percent,69.3
+South Sudan,2000,Percent,69.3
+South Sudan,1999,Percent,70.1
+South Sudan,1998,Percent,71.5
+Sudan,2006,Percent,85.8
+Sudan,2005,Percent,85.5
+Sudan,2004,Percent,85.2
+Sudan,2003,Percent,85.3
+Sudan,2002,Percent,85.6
+Sudan,2001,Percent,86
+Sudan,2000,Percent,86.4
+Sudan,1999,Percent,85.7
+Sudan,1998,Percent,85.6
+Swaziland,2003,Percent,74.9
+Swaziland,2002,Percent,77
+Swaziland,2001,Percent,79.6
+Swaziland,2000,Percent,82.2
+Swaziland,1999,Percent,84
+Swaziland,1998,Percent,86.9
+Tanzania,2006,Percent,65
+Tanzania,2005,Percent,65.5
+Tanzania,2004,Percent,65.7
+Tanzania,2003,Percent,66.5
+Tanzania,2002,Percent,68.3
+Tanzania,2001,Percent,69.3
+Tanzania,2000,Percent,69.3
+Tanzania,1999,Percent,70.1
+Tanzania,1998,Percent,71.5
+Tunisia,2002,Percent,66.7
+Tunisia,2001,Percent,67.3
+Tunisia,2000,Percent,67.7
+Tunisia,1999,Percent,62.9
+Tunisia,1998,Percent,62.3
+Uganda,2006,Percent,79.7
+Uganda,2005,Percent,78.8
+Uganda,2004,Percent,78.4
+Uganda,2003,Percent,78.3
+Uganda,2002,Percent,77.8
+Uganda,2001,Percent,77.9
+Uganda,2000,Percent,75.5
+Uganda,1999,Percent,73.8
+Uganda,1998,Percent,77.3
+Zambia,2003,Percent,68.3
+Zambia,2002,Percent,66.8
+Zambia,2001,Percent,77.7
+Zambia,2000,Percent,75
+Zambia,1999,Percent,81
+Zambia,1998,Percent,77.9
+Zimbabwe,2003,Percent,84.3
+Zimbabwe,2002,Percent,83.8
+Zimbabwe,2001,Percent,77.7
+Zimbabwe,2000,Percent,75
+Zimbabwe,1999,Percent,81
+Zimbabwe,1998,Percent,77.9
